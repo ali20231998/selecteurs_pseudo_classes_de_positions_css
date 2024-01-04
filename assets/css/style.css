@@ -1,0 +1,27 @@
+/*tbody tr:first-child{
+    background-color: blue;
+}
+tbody tr:last-child{
+    background-color: red;
+}
+
+tbody tr:nth-child(4){
+    background-color: green;
+}
+
+tbody tr:nth-child(2n-1){
+    background-color: aqua;
+}
+
+tbody tr:nth-child(3n-1){
+    background-color: aqua;
+}
+
+
+tbody tr:nth-last-child(3n-1){
+    background-color: red;
+}
+*/
+ul li:only-child{
+color: blue;
+}
